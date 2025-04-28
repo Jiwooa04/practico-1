@@ -21,7 +21,7 @@ public class Person
      */
     public Person()
     {
-        height = 60;
+        height = 50;
         width = 30;
         xPosition = 280;
         yPosition = 190;
